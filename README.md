@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0d0d,100:D4AF37&height=220&section=header&text=Nahidul%20Islam%20Sizan&fontSize=46&fontColor=D4AF37&fontAlignY=42&desc=Full-Stack%20Web%20Developer%20%7C%20BSc%20in%20Computer%20Science%20@%20%40%20UofR&descAlignY=62&descSize=17&descColor=C9C9C9&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0d0d,100:D4AF37&height=220&section=header&text=Nahidul%20Islam%20Sizan&fontSize=46&fontColor=D4AF37&fontAlignY=42&desc=Full-Stack%20Web%20Developer%20%7C%20BSc%20in%20Computer%20Science%20%40%20UofR&descAlignY=62&descSize=17&descColor=C9C9C9&animation=fadeIn" width="100%"/>
 
 <img src="https://komarev.com/ghpvc/?username=nahidulsizan&style=for-the-badge&color=D4AF37&label=PROFILE+VIEWS&labelColor=0d0d0d" alt="profile views"/>
 <img src="https://img.shields.io/badge/OPEN%20TO%20WORK-D4AF37?style=for-the-badge&logo=handshake&logoColor=0d0d0d&labelColor=0d0d0d" alt="open to work"/>
