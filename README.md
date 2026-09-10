@@ -14,7 +14,6 @@
 
 <br/>
 
-### <code>The Cipher Stack</code>
 
 <table>
 <tr>
