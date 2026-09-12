@@ -114,7 +114,6 @@
 
 <table>
 <tr>
-<td>🏅</td>
 <td>
 <b>Google IT Support Professional Certificate</b> — Google / Coursera
 <br/>
@@ -122,7 +121,6 @@
 </td>
 </tr>
 <tr>
-<td>🏅</td>
 <td>
 <b>CISCO Introduction to Cybersecurity</b>
 <br/>
