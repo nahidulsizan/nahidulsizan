@@ -129,7 +129,6 @@
 <sub>Cybersecurity fundamentals certification from Cisco's Networking Academy.</sub>
 </td>
 </tr>
-</table>
 <br/>
 <td>
 <b>CISCO Ethical Hacker Certification</b>
