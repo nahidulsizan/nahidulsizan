@@ -124,7 +124,7 @@
 <tr>
 <td>🏅</td>
 <td>
-<b>CISCO Cybersecurity Certificate</b>
+<b>CISCO Introduction to Cybersecurity</b>
 <br/>
 <sub>Cybersecurity fundamentals certification from Cisco's Networking Academy.</sub>
 </td>
@@ -132,7 +132,13 @@
 </table>
 
 <br/>
-
+<td>
+<b>CISCO Ethical Hacker Certification</b>
+<br/>
+<sub>This certification strengthened my understanding of ethical hacking, cybersecurity fundamentals, vulnerability assessment, reconnaissance, and penetration testing while emphasizing the importance of protecting systems through responsible security practices..</sub>
+</td>
+</tr>
+</table>
 ### <code>Socials</code>
 
 <div align="center">
