@@ -130,7 +130,6 @@
 </td>
 </tr>
 </table>
-
 <br/>
 <td>
 <b>CISCO Ethical Hacker Certification</b>
@@ -139,6 +138,8 @@
 </td>
 </tr>
 </table>
+<br/>
+
 ### <code>Socials</code>
 
 <div align="center">
